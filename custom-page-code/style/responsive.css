@@ -1,0 +1,178 @@
+                /* lapto(1025-1200) */
+
+@media screen and (max-width: 1200px){
+#s-img img{
+width: 100%;
+}
+
+
+
+
+
+     
+}
+                    /* tablet(641-1024) */
+
+@media screen and (max-width: 1024px){
+    #hader-container{
+        width: 100%;
+    }
+button{
+    font-size: 14px;
+}
+#heder-left h2{
+    font-size: 20px;
+}
+#f-hading h1{
+    font-size: 20px;
+}
+#f-hading p{
+    font-size: 12px;
+}
+#f-img img{
+    width: 50%;
+}
+#f-baner{
+    width: 80%;
+}
+#s-hading h2{
+    font-size:20px; 
+}
+#s-hading p{
+    font-size: 12px;
+}
+#s-baner{
+    width: 90%;
+}
+#s-promt h3{
+font-size: 16px;
+}
+#s-promt p{
+    font-size: 10px;
+}
+#t-hading h2 {
+font-size: 20px;
+}
+#t-hading p{
+    font-size: 12px;
+}
+#l-hading h2 {
+font-size: 20px;
+}
+#l-hading p{
+    font-size: 12px;
+}
+.box{
+    text-align: center;
+    font-size: 14px;
+}
+.box img{
+    width: 60%;
+}
+#footer-promt h4{
+font-size: 12px;
+}
+#footer-promt{
+    padding-left: 100px;
+}
+#footer-img-container{
+padding-right: 100px;
+gap: 20px;
+align-items: center;
+}
+.footer-img img {
+    width: 80%;
+}
+
+
+
+
+}
+
+
+
+
+                    /* mobail(250-640) */
+
+@media screen and (max-width: 640px){
+button{
+    font-size: 10px;
+    padding: 10px 16px 10px 16px;
+}
+#heder-left h2{
+    font-size: 14px;
+}
+#f-hading h1{
+    font-size: 17px;
+}
+#f-hading p{
+    font-size: 10px;
+}
+#f-img img{
+    width: 50%;
+}
+#f-baner{
+    width: 50%;
+}
+#s-last{
+    flex-direction: column-reverse;
+    text-align: center;
+}
+#s-hading h2{
+    font-size: 17px
+}
+#s-hading p{
+    font-size: 10px;
+}
+#s-img img{
+width: 100%;
+} 
+#s-promt h3{
+    font-size: 12px;
+}
+#t-hading h2 {
+font-size: 17px;
+}
+#t-hading p{
+    font-size: 10px;
+}
+#l-hading h2 {
+font-size: 17px;
+}
+#l-hading p{
+    font-size: 10px;
+
+}
+#l-box-container{
+    flex-direction: column;
+    align-items: center;
+    
+}
+.box{
+    text-align: center;
+    font-size: 12px;
+    width: 30%;
+}
+.box img{
+    width: 60%;
+}
+#footer-container{
+    background-color:rgb(204, 240, 148) ;
+}
+#footer-baner{
+    flex-direction: column;
+    align-items: center;
+
+}
+#footer-promt{
+    padding: 0px;
+    font-size: 12px;
+    
+
+}
+#footer-img-container{
+    padding: 0px;
+}
+
+
+}
