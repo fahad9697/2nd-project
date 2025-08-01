@@ -1,0 +1,152 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-image: linear-gradient(#E6E6FA, #B8E7FA);
+    min-height: 100vh;
+}
+
+#img {
+    width: 50%;
+}
+
+#hader-container {
+    background-color: white;
+}
+
+#hader-baner {
+    width: 84.7%;
+    margin: 0px auto 100px auto;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+span {
+    color: #FFA500;
+}
+
+button {
+    background-image: linear-gradient(#FFA500, #FED346);
+    padding: 17px 24px 17px 24px;
+    border: 0px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+
+#f-baner {
+    width: 84.7%;
+    margin: 0px auto 100px auto;
+    background-color: #E6EDF9;
+    padding: 40px 60px 40px 60px;
+    text-align: center;
+    border-radius: 16px;
+}
+
+#f-img img {
+    width: 20%;
+}
+
+p {
+    font-size: 14px;
+    color: #3e3f42;
+    margin-bottom: 32px;
+}
+
+#s-hading {
+    text-align: center;
+}
+
+#s-baner {
+    width: 84.7%;
+    margin: 0px auto 100px auto;
+}
+
+#s-last {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #E6EDF9;
+    border-radius: 16px;
+    padding: 48px;
+}
+
+#s-img {
+    width: 40%;
+}
+
+#s-promt h3 {
+    color: #46484f;
+}
+
+#t-baner {
+    width: 84.7%;
+    margin: 0px auto 100px auto;
+    text-align: center;
+}
+
+iframe {
+    border-radius: 16px;
+    border: 1px solid #a7a8ad;
+    padding: 24px;
+
+
+}
+
+#l-baner {
+    width: 84.7%;
+    margin: 0px auto 100px auto;
+}
+
+#l-hading {
+    text-align: center;
+}
+
+.box img {
+    width: 20%;
+}
+
+#l-box-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.box {
+    background-image: linear-gradient(#E6EDF9, #9DE5FF);
+    padding: 40px;
+    width: 310px;
+    border-radius: 16px;
+    box-shadow: 0px 2px 40px rgb(151, 150, 150);
+
+}
+
+#footer-container {
+    background-color: white;
+
+}
+
+#footer-baner {
+    width: 84.7%;
+    margin: 0px auto 100px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#footer-promt {
+    align-items: center;
+    padding-left: 150px;
+}
+
+.footer-img img {
+    width: 100%;
+}
+
+#footer-img-container {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding-right: 150px;
+}
